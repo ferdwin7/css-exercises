@@ -1,0 +1,10 @@
+/* foundationsone.css */
+
+div {
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    /*font-family: "Georgia", sans-serif; */
+    font-weight: bold;
+    text-align: center;
+}

@@ -1,0 +1,19 @@
+p {
+    background-color: pink;
+    font-size:24px;
+}
+
+.larger-text {
+    font-size: 36px;
+}
+
+.blue-text {
+    color: blue;
+    font-size: 48px;
+}
+
+.green-bg {
+    background-color: greenyellow;
+    font-weight: bold;
+    font-size: 36px;
+}

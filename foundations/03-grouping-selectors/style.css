@@ -1,0 +1,14 @@
+.button-click, .button-noclick {
+    font-size: 48px;
+    font-family: Verdana;
+}
+
+.button-click {
+    background-color: black;
+    color:white;
+}
+
+.button-noclick {
+    background-color: yellow;
+    color:black;
+}
